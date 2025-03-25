@@ -19,9 +19,7 @@ def logo():
   ╚╝───╚╝╚╝╚══╝╚══╝╚═══╝╚╝─╚╝╚╝╚══╝╚╝╚╝ 
     '''
     print(Fore.RED + lg)
-    print(Fore.CYAN + "        Co-Team: @Shakur51")
-    print(Fore.CYAN + "        Main Owner: @Nexarixs")
-    print(Fore.CYAN + "      Telegram Channel: @Unknown_Code94")
+    print(Fore.CYAN + "        Main Owner: @The_Princx")
     print(Fore.GREEN + "−−−−−−−−−−−−−−−−−−−−−−−−−−−--−−−−−−−−−−−−−−")
     print(Style.DIM + " What file do you want to crack?")
     print(Fore.BLUE + " 1. zip file")
